@@ -74,5 +74,5 @@ The lab will go through how to:
    
    ![](https://github.com/zjserapin/ETL-Pipeline/blob/master/images/Screen%20Shot%202020-04-19%20at%2010.05.34%20AM.png)
    
- Check out the Demo video here:
+ Check out the Demo video here: https://youtu.be/_-45ZvlHKLw
    
