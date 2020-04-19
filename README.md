@@ -72,5 +72,7 @@ The lab will go through how to:
    - You should be able to see all of the data generated from these IoT devices
    - Then for further exploration/dashboard creation you can click into DataStudio!
    
+   ![](https://github.com/zjserapin/ETL-Pipeline/blob/master/images/Screen%20Shot%202020-04-19%20at%2010.05.34%20AM.png)
+   
  Check out the Demo video here:
    
