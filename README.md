@@ -60,7 +60,7 @@ The lab will go through how to:
    - create keypairs in the appropriate directory so IoT devices connect securely to Iot Core
    - Add simlated devices to your registry
    
-    ![](https://github.com/zjserapin/ETL-Pipeline/blob/master/images/Screen%20Shot%202020-04-19%20at%210.01.58%20AM.png)
+   ![](https://github.com/zjserapin/ETL-Pipeline/blob/master/images/Screen%20Shot%202020-04-19%20at%2010.01.58%20AM.png)
    
    - Run these simulated devices and wait for results.
   
