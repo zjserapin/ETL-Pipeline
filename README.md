@@ -43,6 +43,9 @@ The lab will go through how to:
    - Specify the output table as the dataset you created in BigQuery from step 3
    - Specify the temporary location as the Storage Bucket from step 4
    - If specifiying optional paramaters, make sure your machine type matches up with the VM instance you use or create in the next steps
+   
+   ![](https://github.com/zjserapin/ETL-Pipeline/blob/master/images/Screen%20Shot%202020-04-19%20at%209.39.19%20AM.png)
+   
    - Run Job and check logs
    
    Step 6
@@ -56,6 +59,9 @@ The lab will go through how to:
    - register the iot devices
    - create keypairs in the appropriate directory so IoT devices connect securely to Iot Core
    - Add simlated devices to your registry
+   
+    ![](https://github.com/zjserapin/ETL-Pipeline/blob/master/images/Screen%20Shot%202020-04-19%20at%210.01.58%20AM.png)
+   
    - Run these simulated devices and wait for results.
   
   Step 7
