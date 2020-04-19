@@ -13,13 +13,13 @@ The lab will go through how to:
   
  1) First you need to enable the following api's:
     
-    -Cloud IoT API, Cloud Pub/Sub API and Dataflow API
+    - Cloud IoT API, Cloud Pub/Sub API and Dataflow API
  
  2) Create a Cloud Pub/Sub Topic
  
-    -Find Pub/Sub in navigation menu
-    -go to topics
-    -create and name a topic
+    - Find Pub/Sub in navigation menu
+    - go to topics
+    - create and name a topic
     
  3) Big Query dataset
   
