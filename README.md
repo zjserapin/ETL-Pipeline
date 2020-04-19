@@ -63,6 +63,8 @@ The lab will go through how to:
    ![](https://github.com/zjserapin/ETL-Pipeline/blob/master/images/Screen%20Shot%202020-04-19%20at%2010.01.58%20AM.png)
    
    - Run these simulated devices and wait for results.
+   
+   ![](https://github.com/zjserapin/ETL-Pipeline/blob/master/images/Screen%20Shot%202020-04-19%20at%2010.05.19%20AM.png)
   
   Step 7
   
